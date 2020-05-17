@@ -2,6 +2,8 @@
 
 В этом репозитории собрана часть моих учебных проекты из курса "Специалист по Data Science" Яндекс.Практикума
 
+[nbviewer](https://nbviewer.jupyter.org/github/KovriginDI/Yandex.Praktikum/tree/master/)
+
 Спринты:
 * [Обучение с учителем](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/1_mobile_operator_clients_classification) - построение модели классификации клиентов оператора связи для предложения нового тарифа
 * [Машинное обучение в бизнесе](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/2_bank_churn_classification) - построение модели классификации клиентов банка для предсказания ухода в ближайшее время
