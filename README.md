@@ -3,7 +3,7 @@
 В этом репозитории собрана часть моих учебных проекты из курса "Специалист по Data Science" Яндекс.Практикума
 
 Спринты:
-* [Обучение с учителем - построение модели классификации клиентов оператора связи для предложения нового тарифа](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/1_mobile_operator_clients_classification)
+* [Обучение с учителем](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/1_mobile_operator_clients_classification) - построение модели классификации клиентов оператора связи для предложения нового тарифа
 * [Машинное обучение в бизнесе - построение модели классификации клиентов банка для предсказания ухода в ближайшее время](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/2_bank_churn_classification)
 * [Сборный проект - построение модели для предсказания коэффициента восстановления золота из золотосодержащей руды](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/3_gold_recovery_regression)
 * [Численные методы (градиентный бустинг) - построение модели для определения рыночной стоимости автомобиля по его характеристикам](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/4_cars_price_regression)
