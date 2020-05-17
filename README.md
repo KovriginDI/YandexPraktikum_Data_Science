@@ -10,4 +10,4 @@
 * [Временные ряды - построение модели для предсказания количества заказов такси на следующий час](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/5_taxi_time_series_regression)
 * [Тексты - построение модели классификации комментариев на позитивные и негативные](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/6_toxic_comments_classification)
 * [Изображения - построение модели предсказания возраста по фотографии](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/7_CV_age_prediction)
-* [Выпускной проект - построение модели регрессии для предсказания температуры стали в процессе легирования](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/8_steel_temperature_regression)
+* [Выпускной проект - построение модели для предсказания температуры стали в процессе легирования](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/8_steel_temperature_regression)
