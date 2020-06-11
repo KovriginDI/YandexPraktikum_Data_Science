@@ -1,6 +1,6 @@
 # Yandex.Praktikum
 
-В этом репозитории собрана часть моих учебных проекты из курса "Специалист по Data Science" Яндекс.Практикума
+В этом репозитории собрана часть моих учебных проекты из курса "Специалист по Data Science" Яндекс.Практикума, а также тестовые задания
 
 [nbviewer](https://nbviewer.jupyter.org/github/KovriginDI/Yandex.Praktikum/tree/master/)
 
@@ -13,3 +13,6 @@
 * [Тексты](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/6_toxic_comments_classification) - построение модели классификации комментариев на позитивные и негативные
 * [Изображения](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/7_CV_age_prediction) - построение модели предсказания возраста по фотографии
 * [Выпускной проект](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/8_steel_temperature_regression) - построение модели для предсказания температуры стали в процессе легирования
+
+Тестовое задание:
+* [Тестовое задание - окатыши](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/9_quality_prediction_of_pellets) - построение модели для предсказания качества полуфабрикатов металлургического производства
