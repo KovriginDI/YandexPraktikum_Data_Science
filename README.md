@@ -5,8 +5,8 @@
 [nbviewer](https://nbviewer.jupyter.org/github/KovriginDI/Yandex.Praktikum/tree/master/)
 
 Аналитика:
-* [Преобработка данных](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/11_credit_score) - преобработка датасета для кредитного скоринга
-* [Исследовательский анализ данных](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/12_estate_market) - исследования рынка недвижимости Санкт-Петербурга и соседних населенных пунктов на основе датасета объявлений Яндекс.Недвижимость
+* [Преобработка данных](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/11_credit_score) - предобработка датасета для кредитного скоринга
+* [Исследовательский анализ данных](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/12_estate_market) - исследование рынка недвижимости Санкт-Петербурга и соседних населенных пунктов на основе датасета объявлений Яндекс.Недвижимость
 * [Статистический анализ данных](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/13_mobile_operator) - анализ клиентов мобильного оператора
 * [Сборный проект](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/14_videogame_market) - анализ мирового рынка видеоигр
 
