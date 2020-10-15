@@ -23,3 +23,4 @@ Data Science:
 Тестовые задание:
 * [Тестовое задание - окатыши](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/9_quality_prediction_of_pellets) - построение модели для предсказания качества полуфабрикатов металлургического производства
 * [Тестовое задание - баги](https://github.com/KovriginDI/Yandex.Praktikum/tree/master/10_prediction_of_bugs) - построение модели для предсказания количества багов по логам коммитов
+* [Тестовое задание - авто](https://github.com/KovriginDI/Yandex.Praktikum/blob/master/15_car_logo_classification/15_car_logo_classification.ipynb) - построение модели для классификации автомобильных логотипов
